@@ -1,5 +1,7 @@
 package com.droidabhishek.aboutme
 
+//A Simple About Me App
+
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
